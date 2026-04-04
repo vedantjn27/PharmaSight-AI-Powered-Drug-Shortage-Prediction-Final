@@ -1,0 +1,285 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@layer base {
+  :root {
+    /* Dark Mode (Default) */
+    --background: 10 14 39;
+    --foreground: 224 224 224;
+    --primary-50: 26 31 58;
+    --primary-100: 42 47 74;
+    --primary-500: 59 130 246;
+    --primary-600: 37 99 235;
+    --primary-900: 30 58 138;
+    --accent-blue: 0 194 255;
+    --accent-amber: 255 184 0;
+    --accent-red: 255 59 92;
+    --accent-green: 0 229 160;
+    --accent-purple: 168 85 247;
+    --status-green: 16 185 129;
+    --status-amber: 245 158 11;
+    --status-red: 239 68 68;
+    --border: rgba(255, 255, 255, 0.08);
+    --input: rgba(255, 255, 255, 0.05);
+    --muted: rgba(255, 255, 255, 0.4);
+    --radius: 0.5rem;
+    --glass-bg: rgba(10, 14, 39, 0.7);
+    --glass-border: rgba(255, 255, 255, 0.1);
+  }
+
+  /* Light Mode — applied when .dark is NOT on <html> */
+  html:not(.dark) {
+    --background: 245 247 250;
+    --foreground: 26 26 26;
+    --primary-50: 240 244 255;
+    --primary-100: 230 236 255;
+    --primary-500: 59 130 246;
+    --primary-600: 37 99 235;
+    --primary-900: 30 58 138;
+    --accent-blue: 0 102 204;
+    --accent-amber: 217 119 6;
+    --accent-red: 220 38 38;
+    --accent-green: 5 150 105;
+    --accent-purple: 124 58 237;
+    --status-green: 16 185 129;
+    --status-amber: 245 158 11;
+    --status-red: 239 68 68;
+    --border: rgba(0, 0, 0, 0.1);
+    --input: rgba(0, 0, 0, 0.05);
+    --muted: rgba(0, 0, 0, 0.5);
+    --glass-bg: rgba(255, 255, 255, 0.85);
+    --glass-border: rgba(0, 0, 0, 0.08);
+  }
+
+  /* Light mode body background */
+  html:not(.dark) body {
+    background-color: rgb(245 247 250);
+    color: rgb(26 26 26);
+  }
+
+  /* Light mode glass panels */
+  html:not(.dark) .glass {
+    background: rgba(255, 255, 255, 0.7);
+    border-color: rgba(0,0,0,0.08);
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground transition-colors duration-300;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+@layer components {
+  .glass {
+    @apply bg-gradient-to-br from-white/5 to-white/[0.02] backdrop-blur-glass border border-white/10 rounded-xl;
+  }
+
+  .glass-light {
+    @apply bg-white/40 backdrop-blur-glass border border-white/20 rounded-xl;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-accent-blue via-accent-purple to-accent-red bg-clip-text text-transparent;
+  }
+
+  .shimmer {
+    background-image: linear-gradient(
+      90deg,
+      transparent,
+      rgba(255, 255, 255, 0.2),
+      transparent
+    );
+    background-size: 1000px 100%;
+    animation: shimmer 2s infinite;
+  }
+
+  .status-badge {
+    @apply px-3 py-1 rounded-full text-xs font-semibold;
+  }
+
+  .status-badge-green {
+    @apply status-badge bg-status-green/10 text-status-green;
+  }
+
+  .status-badge-amber {
+    @apply status-badge bg-status-amber/10 text-status-amber;
+  }
+
+  .status-badge-red {
+    @apply status-badge bg-status-red/10 text-status-red;
+  }
+
+  .button-primary {
+    @apply px-4 py-2 rounded-lg bg-primary-500 text-white font-semibold hover:bg-primary-600 transition-colors;
+  }
+
+  .button-secondary {
+    @apply px-4 py-2 rounded-lg border border-primary-500 text-primary-500 font-semibold hover:bg-primary-500/10 transition-colors;
+  }
+
+  .input-field {
+    @apply w-full px-4 py-2 rounded-lg bg-input border border-border text-foreground placeholder-muted focus:outline-none focus:border-primary-500 focus:ring-1 focus:ring-primary-500 transition-colors;
+  }
+
+  select.input-field option {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Animations */
+@keyframes shimmer {
+  0% {
+    background-position: -1000px 0;
+  }
+  100% {
+    background-position: 1000px 0;
+  }
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateY(10px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+/* Mobile-First Responsive Utilities */
+@media (max-width: 640px) {
+  main {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
+
+  .glass {
+    @apply rounded-lg;
+  }
+
+  table {
+    font-size: 0.75rem;
+  }
+
+  .status-badge {
+    @apply px-2 py-1 text-xs;
+  }
+
+  .button-primary,
+  .button-secondary {
+    @apply px-3 py-1.5 text-sm;
+  }
+
+  .input-field {
+    @apply px-3 py-1.5 text-sm;
+  }
+}
+
+/* Tablet Adjustments */
+@media (min-width: 641px) and (max-width: 1024px) {
+  main {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  table {
+    font-size: 0.875rem;
+  }
+}
+
+/* Desktop Standard */
+@media (min-width: 1025px) {
+  main {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+/* Ensure touch targets are large enough on mobile */
+@media (max-width: 640px) {
+  button,
+  a,
+  input,
+  select,
+  textarea {
+    min-height: 2.5rem;
+  }
+
+  .navbar {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+  }
+}
+
+/* Prevent layout shift on mobile */
+@media (max-width: 640px) {
+  * {
+    -webkit-tap-highlight-color: transparent;
+  }
+}
+
+/* Safe area support for notched devices */
+@supports (padding: max(0px)) {
+  @media (max-width: 640px) {
+    nav {
+      padding-left: max(0.75rem, env(safe-area-inset-left));
+      padding-right: max(0.75rem, env(safe-area-inset-right));
+    }
+
+    main {
+      padding-left: max(0.75rem, env(safe-area-inset-left));
+      padding-right: max(0.75rem, env(safe-area-inset-right));
+    }
+  }
+}

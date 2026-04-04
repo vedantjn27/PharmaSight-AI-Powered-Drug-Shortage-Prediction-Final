@@ -1,0 +1,13 @@
+{
+  "model": "TemporalFusionTransformer",
+  "max_encoder_length": 90,
+  "max_prediction_length": 30,
+  "quantiles": [
+    0.1,
+    0.5,
+    0.9
+  ],
+  "val_mae_p50": 3.2087,
+  "val_rmse_p50": 4.0856,
+  "best_checkpoint": "C:\\Users\\vedan\\Documents\\My_Projects\\PharmaSight - AI Powered Drug Shortage Prediction\\data\\models\\tft\\tft_best-v2.ckpt"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "pharmasight",
+  "version": "1.0.0",
+  "description": "AI-Powered Drug Shortage Prediction & Supply Chain Intelligence",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/leaflet": "^1.9.21",
+    "axios": "^1.6.2",
+    "clsx": "^2.0.0",
+    "framer-motion": "^12.38.0",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.293.0",
+    "next": "^15.1.0",
+    "react": "^19.0.0-rc-66",
+    "react-csv": "^2.2.2",
+    "react-dom": "^19.0.0-rc-66",
+    "react-leaflet": "^5.0.0",
+    "recharts": "^2.10.0",
+    "tailwind-merge": "^2.2.0",
+    "zustand": "^4.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "@types/react": "^19.0.0-rc-66",
+    "@types/react-dom": "^19.0.0-rc-66",
+    "autoprefixer": "^10.4.16",
+    "class-variance-authority": "^0.7.0",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.4.19",
+    "tailwindcss-animate": "^1.0.7",
+    "typescript": "^5.3.0"
+  }
+}

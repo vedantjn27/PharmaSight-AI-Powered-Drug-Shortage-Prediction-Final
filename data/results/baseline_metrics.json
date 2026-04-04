@@ -1,0 +1,38 @@
+{
+  "baselines": [
+    {
+      "model": "LightGBM",
+      "accuracy": 0.9915,
+      "f1_score": 0.0,
+      "roc_auc": 0.7138,
+      "feature_importances": {
+        "daily_dispenses": 567,
+        "daily_cost_volume": 659,
+        "daily_cdsco_alerts": 119,
+        "demand_lag_7d": 1133,
+        "demand_lag_30d": 934,
+        "demand_rolling_avg_14d": 1984,
+        "alert_count_last_30d": 870,
+        "day_of_week": 688,
+        "month": 1150,
+        "drug_enc": 850
+      }
+    },
+    {
+      "model": "NaivePersistence",
+      "avg_mae": 4.4847,
+      "per_drug_mae": {
+        "Amoxicillin": 4.2541,
+        "Azithromycin": 4.1038,
+        "Ceftriaxone": 3.9317,
+        "Ciprofloxacin": 3.8251,
+        "Diclofenac": 3.8716,
+        "Ibuprofen": 4.0,
+        "Metformin": 9.2459,
+        "Pantoprazole": 3.724,
+        "Paracetamol": 4.5956,
+        "Telmisartan": 3.2951
+      }
+    }
+  ]
+}

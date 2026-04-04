@@ -1,0 +1,601 @@
+Report_Date,Drug_Name_Raw,Batch_No,Manufacturer_ID,Failure_Reason,Testing_State,Severity_Score
+16-Sep-22,AZITHROMYCIN,B1339,SUPP_143,Dissolution failure,Telangana,low
+,Paracetamol,UNKNOWN,SUPP_109,Dissolution failure,Telangana,MED
+08-Aug-21,Paracetamol,B4394,,Misbranded,Maharashtra,2
+,DICLOFENAC,B2885,SUPP_128,Particulate matter,,2
+,Ibuprofen,B7118,SUPP_144,Dissolution failure,Telangana,CRITICAL
+,Azithromycin,B6049,SUPP_129,Particulate matter,Himachal Pradesh,CRITICAL
+20/05/2022,CEFTRIAXONE,B2715,SUPP_118,"  Discoloration  
+",,High
+2021-11-17,Metformin,B8758,SUPP_101,Particulate matter,Maharashtra,low
+,Paracetamol,B5222,SUPP_121,Discoloration,Uttar Pradesh,1
+,Amoxicillin,B2295,SUPP_115,Misbranded,Himachal Pradesh,1
+2023-10-14,Azithromycin,B1185,SUPP_107,"  Particulate matter  
+",Telangana,MED
+07-Jun-22,metformin,B1257,SUPP_139,Particulate matter,,High
+,Amoxicillin,B6315,SUPP_101,"  Discoloration  
+",Himachal Pradesh,MED
+12/09/2021,Amoxicillin,B4817,SUPP_109,"  Particulate matter  
+",Uttar Pradesh,low
+2021-07-15,Amoxicillin,B4882,SUPP_128,Misbranded,Telangana,low
+17/04/2022,Amoxicillin,B8391,SUPP_127,"  Misbranded  
+",Gujarat,low
+25-Dec-23,AZITHROMYCIN,B5961,SUPP_150,Discoloration,Maharashtra,High
+,Azithromycin,B9835,SUPP_124,Assay failure,Gujarat,low
+16/01/2021,Metformin,B7421,SUPP_122,Discoloration,Maharashtra,1
+22/07/2023,Pantoprazole,B6846,SUPP_131,Particulate matter,Gujarat,2
+24-Oct-23,IBUPROFEN,B7841,SUPP_147,"  Assay failure  
+",Telangana,2
+10/02/2023,CIPROFLOXACIN,B6183,,Dissolution failure,Telangana,High
+24-Oct-23,Telmisartan,B3527,,"  Assay failure  
+",Uttar Pradesh,CRITICAL
+09-May-22,Diclofenac,B3986,SUPP_129,Particulate matter,Uttar Pradesh,MED
+,paracetamol,B8489,SUPP_119,"  Assay failure  
+",,High
+,Metformin,B1845,SUPP_148,Assay failure,Maharashtra,1
+,PANTOPRAZOLE,B4669,SUPP_100,Assay failure,Uttar Pradesh,CRITICAL
+09-May-22,Ceftriaxone,B3623,SUPP_147,Discoloration,Telangana,MED
+12/06/2021,Pantoprazole,B8601,SUPP_111,Discoloration,Gujarat,MED
+07-May-22,Pantoprazole,B1653,SUPP_119,Assay failure,Telangana,MED
+05/03/2021,CIPROFLOXACIN,B8912,SUPP_135,Discoloration,Himachal Pradesh,low
+,Pantoprazole,B4267,,Assay failure,Himachal Pradesh,2
+06/06/2023,Ciprofloxacin,B8242,SUPP_117,Discoloration,Maharashtra,High
+,Ibuprofen,B2746,SUPP_100,Dissolution failure,Telangana,High
+18/11/2023,paracetamol,B1305,SUPP_111,Dissolution failure,Maharashtra,MED
+,azithromycin,B9399,,Assay failure,,low
+2022-07-18,Azithromycin,B1941,SUPP_141,Discoloration,Himachal Pradesh,2
+,Paracetamol,B4696,SUPP_107,Misbranded,Uttar Pradesh,MED
+,Pantoprazole,B7340,SUPP_101,Dissolution failure,Gujarat,High
+28/04/2023,Azithromycin,B1862,SUPP_104,Discoloration,Gujarat,CRITICAL
+,Azithromycin,B2791,SUPP_134,Dissolution failure,Maharashtra,low
+2021-06-05,diclofenac,B9095,,"  Dissolution failure  
+",Gujarat,MED
+18/06/2021,Ceftriaxone,B2127,SUPP_143,Dissolution failure,Maharashtra,High
+09-Jan-22,paracetamol,B4056,SUPP_111,Dissolution failure,Telangana,MED
+09/08/2022,Pantoprazole,B8736,SUPP_117,Dissolution failure,Maharashtra,CRITICAL
+30/12/2022,Ceftriaxone,B6536,SUPP_129,Assay failure,Maharashtra,1
+,telmisartan,B4228,SUPP_134,Misbranded,Telangana,2
+,Ceftriaxone,B9791,SUPP_126,Misbranded,Uttar Pradesh,MED
+,Paracetamol,B4050,SUPP_146,Misbranded,,MED
+,Amoxicillin,B7581,SUPP_125,"  Discoloration  
+",,High
+,Metformin,B6238,,Discoloration,Himachal Pradesh,MED
+31-Aug-23,Amoxicillin,B8842,SUPP_105,"  Misbranded  
+",Himachal Pradesh,2
+22/09/2022,Amoxicillin,B6353,SUPP_113,Discoloration,Himachal Pradesh,MED
+,Amoxicillin,B6179,SUPP_139,Particulate matter,Himachal Pradesh,2
+27-Dec-23,amoxicillin,UNKNOWN,SUPP_122,Assay failure,Telangana,low
+2021-01-29,Ceftriaxone,B7688,SUPP_150,Assay failure,Uttar Pradesh,High
+2022-11-23,Azithromycin,B7371,SUPP_143,Discoloration,Gujarat,High
+2022-12-08,Ceftriaxone,B3755,SUPP_102,Particulate matter,Maharashtra,1
+04/06/2023,Ibuprofen,B1256,SUPP_107,"  Assay failure  
+",Himachal Pradesh,High
+13/05/2023,Pantoprazole,B9618,SUPP_133,Dissolution failure,Uttar Pradesh,High
+,Ciprofloxacin,B3815,SUPP_107,Assay failure,Gujarat,High
+11-Nov-23,diclofenac,B5064,SUPP_111,Particulate matter,,low
+26-Dec-22,Pantoprazole,B1869,,"  Discoloration  
+",Gujarat,CRITICAL
+,Paracetamol,B1587,SUPP_141,"  Discoloration  
+",Gujarat,CRITICAL
+2021-01-27,Ciprofloxacin,B6873,SUPP_102,Dissolution failure,Himachal Pradesh,low
+11-Aug-23,Diclofenac,B7643,SUPP_111,Particulate matter,Uttar Pradesh,CRITICAL
+04/02/2022,Amoxicillin,B1182,SUPP_146,Particulate matter,Uttar Pradesh,low
+07-Nov-22,Ceftriaxone,B7220,SUPP_118,"  Assay failure  
+",Telangana,CRITICAL
+2022-08-09,Ibuprofen,B5478,SUPP_125,Dissolution failure,Uttar Pradesh,CRITICAL
+11-Sep-22,Amoxicillin,B7906,SUPP_148,Misbranded,Maharashtra,High
+23-Nov-22,Pantoprazole,B5105,SUPP_133,Misbranded,Uttar Pradesh,1
+2022-10-12,Telmisartan,B3837,SUPP_142,Particulate matter,Maharashtra,low
+27/11/2022,Ciprofloxacin,B3564,,Dissolution failure,,CRITICAL
+2022-11-05,Ceftriaxone,B6085,SUPP_137,"  Dissolution failure  
+",Telangana,MED
+26-Apr-22,Ibuprofen,B8450,SUPP_125,Discoloration,,low
+09/01/2021,Metformin,B6273,SUPP_106,Discoloration,Maharashtra,1
+28-Jan-22,Ibuprofen,UNKNOWN,SUPP_123,"  Particulate matter  
+",Telangana,MED
+17/10/2021,Telmisartan,B9633,SUPP_118,Particulate matter,Uttar Pradesh,High
+,Paracetamol,B9281,SUPP_131,"  Discoloration  
+",Gujarat,CRITICAL
+2023-10-03,Pantoprazole,B5655,,"  Dissolution failure  
+",Himachal Pradesh,low
+24/09/2022,Ceftriaxone,B6051,SUPP_122,Misbranded,Maharashtra,1
+2022-09-16,Amoxicillin,B5055,SUPP_127,Assay failure,Maharashtra,1
+07-Feb-21,Azithromycin,B4764,SUPP_108,Misbranded,Uttar Pradesh,2
+03/01/2021,Paracetamol,B2988,SUPP_103,Discoloration,Uttar Pradesh,2
+2021-05-28,AMOXICILLIN,B5850,SUPP_116,Particulate matter,Telangana,High
+2021-12-02,telmisartan,B1660,SUPP_119,Assay failure,Gujarat,CRITICAL
+12-Mar-21,Paracetamol,B8560,,Misbranded,Himachal Pradesh,1
+2021-06-18,DICLOFENAC,B3218,SUPP_102,Particulate matter,Telangana,2
+20/07/2023,Telmisartan,B6437,,Dissolution failure,Uttar Pradesh,MED
+,Pantoprazole,B8994,SUPP_134,Dissolution failure,Himachal Pradesh,High
+2023-11-13,Telmisartan,UNKNOWN,SUPP_136,Assay failure,,low
+2021-10-11,Amoxicillin,B4492,SUPP_100,Misbranded,Maharashtra,High
+,Paracetamol,UNKNOWN,SUPP_118,Discoloration,Maharashtra,low
+10/09/2021,azithromycin,B5941,SUPP_140,Dissolution failure,Himachal Pradesh,low
+,Metformin,B5557,,Particulate matter,,High
+,Azithromycin,B5873,SUPP_139,"  Dissolution failure  
+",Maharashtra,2
+27/02/2023,Telmisartan,B6511,SUPP_139,Assay failure,Himachal Pradesh,low
+2021-08-12,metformin,B9935,SUPP_114,"  Misbranded  
+",,low
+06-Oct-21,azithromycin,B1647,SUPP_112,"  Assay failure  
+",Telangana,High
+06-May-23,Ceftriaxone,B4937,SUPP_115,Discoloration,Uttar Pradesh,low
+2021-01-14,Azithromycin,B7516,SUPP_122,Particulate matter,Uttar Pradesh,1
+25/12/2023,Ibuprofen,B6442,SUPP_126,"  Discoloration  
+",Telangana,MED
+2023-05-24,Paracetamol,B9129,SUPP_139,Particulate matter,Gujarat,CRITICAL
+12/08/2021,Diclofenac,UNKNOWN,SUPP_125,Dissolution failure,Uttar Pradesh,CRITICAL
+19/12/2022,Ibuprofen,B1517,SUPP_124,"  Dissolution failure  
+",Telangana,MED
+2021-11-28,Telmisartan,B4583,SUPP_114,"  Misbranded  
+",Maharashtra,MED
+2022-02-24,Paracetamol,B7637,SUPP_140,"  Dissolution failure  
+",Maharashtra,CRITICAL
+02/01/2022,Amoxicillin,B6236,SUPP_128,Discoloration,Maharashtra,low
+,Paracetamol,B1108,SUPP_122,Misbranded,Telangana,CRITICAL
+,Ceftriaxone,B6877,SUPP_121,Misbranded,Telangana,1
+2022-09-14,Metformin,B2891,SUPP_106,Particulate matter,Gujarat,low
+,Ibuprofen,B8751,,Particulate matter,Gujarat,2
+06-Aug-21,Amoxicillin,B8451,SUPP_125,Discoloration,,MED
+21-Feb-22,Amoxicillin,B9689,SUPP_123,Assay failure,Telangana,2
+15/12/2021,Metformin,B4920,SUPP_107,"  Discoloration  
+",Gujarat,High
+10/08/2021,Ibuprofen,B3999,SUPP_146,Particulate matter,Himachal Pradesh,low
+2021-06-14,Ciprofloxacin,B4974,SUPP_147,Misbranded,Gujarat,low
+,paracetamol,B8381,SUPP_143,Discoloration,Telangana,High
+27/10/2023,Ceftriaxone,B8212,SUPP_139,Misbranded,Gujarat,High
+,Ibuprofen,B7227,SUPP_127,"  Dissolution failure  
+",,low
+02-Jun-23,Ibuprofen,B6279,SUPP_113,Particulate matter,Himachal Pradesh,MED
+26-Nov-21,azithromycin,B4648,SUPP_125,Particulate matter,Uttar Pradesh,1
+21/11/2021,Paracetamol,B2600,,Misbranded,Maharashtra,2
+27-Jul-23,Paracetamol,B9542,SUPP_102,Misbranded,Uttar Pradesh,low
+25/01/2021,Telmisartan,B3017,SUPP_113,"  Dissolution failure  
+",Gujarat,High
+,Diclofenac,B1157,SUPP_139,"  Misbranded  
+",Maharashtra,High
+10-Apr-23,ibuprofen,B3526,SUPP_134,"  Discoloration  
+",Maharashtra,1
+2022-10-16,azithromycin,B3440,SUPP_121,Discoloration,Himachal Pradesh,2
+,Metformin,B9226,SUPP_125,Assay failure,Gujarat,low
+02/11/2023,Ciprofloxacin,B9280,SUPP_113,Dissolution failure,Maharashtra,MED
+,pantoprazole,B1483,SUPP_127,Dissolution failure,Telangana,CRITICAL
+2022-10-14,Diclofenac,B1152,SUPP_130,Discoloration,Telangana,High
+2022-12-28,Ceftriaxone,B7512,SUPP_130,Dissolution failure,Uttar Pradesh,MED
+09-Oct-23,Ibuprofen,B7089,SUPP_119,Assay failure,Maharashtra,MED
+2022-06-13,Azithromycin,B1430,SUPP_117,Dissolution failure,Maharashtra,High
+,Pantoprazole,B5901,SUPP_128,Discoloration,Maharashtra,MED
+18/11/2022,Metformin,B6934,SUPP_117,Particulate matter,Telangana,CRITICAL
+23/03/2021,ciprofloxacin,B6912,SUPP_108,Particulate matter,Maharashtra,1
+2023-10-07,Pantoprazole,B7929,SUPP_107,Misbranded,Gujarat,High
+08/02/2023,Amoxicillin,B8069,,Particulate matter,Gujarat,MED
+2021-10-13,AZITHROMYCIN,B6155,SUPP_117,"  Particulate matter  
+",Uttar Pradesh,High
+06/09/2023,Paracetamol,B7105,,"  Dissolution failure  
+",Maharashtra,High
+,Amoxicillin,B5026,SUPP_117,Discoloration,Telangana,low
+,Diclofenac,B7824,SUPP_123,Assay failure,Maharashtra,MED
+20/07/2023,Paracetamol,B6134,SUPP_142,Assay failure,Himachal Pradesh,1
+13-Dec-21,Ciprofloxacin,B1323,SUPP_103,Dissolution failure,,High
+27/02/2023,Telmisartan,B1035,SUPP_125,Particulate matter,Himachal Pradesh,High
+,Pantoprazole,B2181,SUPP_147,Misbranded,Maharashtra,CRITICAL
+,Diclofenac,B8126,SUPP_146,Assay failure,Himachal Pradesh,1
+11/04/2021,CEFTRIAXONE,B1510,SUPP_142,Dissolution failure,,CRITICAL
+,paracetamol,B9228,SUPP_117,Particulate matter,Uttar Pradesh,low
+,metformin,B5342,SUPP_141,Assay failure,Uttar Pradesh,CRITICAL
+30/06/2023,Pantoprazole,B4434,SUPP_135,"  Particulate matter  
+",Telangana,low
+2022-01-15,Paracetamol,B5514,SUPP_134,Misbranded,Himachal Pradesh,CRITICAL
+,TELMISARTAN,B5631,SUPP_123,Particulate matter,Gujarat,CRITICAL
+16/12/2023,Ibuprofen,B6228,SUPP_130,Discoloration,Gujarat,low
+09-Sep-22,Diclofenac,B2166,,Assay failure,Telangana,low
+26/02/2022,Pantoprazole,B6530,SUPP_131,Misbranded,Telangana,CRITICAL
+2023-12-07,Ciprofloxacin,B5895,SUPP_120,Particulate matter,Uttar Pradesh,1
+04-Sep-23,Metformin,B2290,SUPP_119,Discoloration,,low
+12/11/2022,Telmisartan,B5835,SUPP_143,Particulate matter,Himachal Pradesh,High
+2023-10-27,Paracetamol,B5920,SUPP_142,Dissolution failure,Telangana,High
+,Amoxicillin,B2391,SUPP_120,Dissolution failure,Himachal Pradesh,low
+,TELMISARTAN,UNKNOWN,SUPP_145,Dissolution failure,Himachal Pradesh,High
+13-Jul-21,Amoxicillin,B5336,SUPP_101,"  Particulate matter  
+",Uttar Pradesh,MED
+2023-02-14,DICLOFENAC,B8291,SUPP_108,Misbranded,,CRITICAL
+2023-09-17,Azithromycin,B9246,SUPP_122,Discoloration,Himachal Pradesh,2
+15/12/2022,Paracetamol,B6536,,Particulate matter,Maharashtra,2
+17-Jan-23,Amoxicillin,B7839,SUPP_137,Particulate matter,Maharashtra,High
+03-Jan-21,Ciprofloxacin,UNKNOWN,SUPP_150,"  Misbranded  
+",Uttar Pradesh,low
+,Amoxicillin,B2353,SUPP_123,Discoloration,Telangana,2
+2022-04-19,Amoxicillin,B7732,SUPP_118,Misbranded,Maharashtra,High
+08-May-21,Ceftriaxone,B7600,,Misbranded,Himachal Pradesh,MED
+15/05/2023,azithromycin,B6008,SUPP_112,Discoloration,Uttar Pradesh,High
+09-May-23,Azithromycin,B1144,SUPP_135,Assay failure,Telangana,low
+24-Jan-22,Metformin,B2228,,Particulate matter,,High
+12/03/2023,Ibuprofen,B2025,,Particulate matter,Gujarat,MED
+,Pantoprazole,B7267,SUPP_117,"  Dissolution failure  
+",Uttar Pradesh,MED
+03/10/2023,pantoprazole,B2551,SUPP_128,Particulate matter,Maharashtra,2
+29/05/2022,Amoxicillin,B3695,SUPP_123,Discoloration,Maharashtra,CRITICAL
+12-Jul-22,CIPROFLOXACIN,B8811,SUPP_103,Particulate matter,Maharashtra,CRITICAL
+,Metformin,B5819,SUPP_115,Assay failure,Maharashtra,CRITICAL
+2021-11-23,Ceftriaxone,B4633,SUPP_138,Discoloration,Uttar Pradesh,CRITICAL
+08-Jul-21,Paracetamol,B2275,SUPP_111,Misbranded,Himachal Pradesh,low
+2023-02-16,CIPROFLOXACIN,B5978,SUPP_103,"  Discoloration  
+",,low
+,Ciprofloxacin,B8951,SUPP_118,Assay failure,Gujarat,1
+24/08/2023,ibuprofen,B7240,SUPP_140,Discoloration,Telangana,MED
+09/12/2021,Metformin,B2946,SUPP_128,Discoloration,Uttar Pradesh,CRITICAL
+2021-01-22,Ibuprofen,B8178,SUPP_137,Dissolution failure,Uttar Pradesh,High
+26/04/2022,METFORMIN,B6435,SUPP_114,"  Discoloration  
+",Gujarat,1
+2023-10-18,Paracetamol,B8110,SUPP_118,Misbranded,Telangana,High
+2023-04-06,Paracetamol,B1686,,Misbranded,Uttar Pradesh,low
+,Ibuprofen,B6097,SUPP_103,Particulate matter,Gujarat,low
+26-Nov-21,METFORMIN,UNKNOWN,SUPP_117,Assay failure,Gujarat,CRITICAL
+16/03/2021,telmisartan,B3422,,Misbranded,Uttar Pradesh,low
+24-Dec-21,Paracetamol,B4012,SUPP_150,Misbranded,Telangana,High
+,Amoxicillin,B6576,SUPP_131,Dissolution failure,Uttar Pradesh,low
+27/09/2022,Telmisartan,B2880,SUPP_142,Dissolution failure,Uttar Pradesh,MED
+01-Oct-22,Paracetamol,B3267,SUPP_110,Dissolution failure,Himachal Pradesh,low
+,Paracetamol,B4652,SUPP_119,Assay failure,,High
+,ceftriaxone,B4621,,Dissolution failure,Uttar Pradesh,2
+19/02/2022,Pantoprazole,B4598,SUPP_117,Discoloration,Telangana,High
+,Paracetamol,B6878,SUPP_111,Discoloration,Maharashtra,1
+09-Aug-23,Pantoprazole,B7730,SUPP_130,Dissolution failure,Telangana,CRITICAL
+,Ibuprofen,B1771,SUPP_108,Misbranded,Gujarat,CRITICAL
+2022-06-09,Ciprofloxacin,B6500,SUPP_105,Assay failure,Telangana,MED
+,AZITHROMYCIN,B4342,,Particulate matter,Himachal Pradesh,High
+,Azithromycin,B2868,SUPP_149,"  Particulate matter  
+",Maharashtra,High
+,PARACETAMOL,B1025,SUPP_115,Misbranded,Telangana,High
+,Telmisartan,B7481,SUPP_111,"  Misbranded  
+",,1
+25/11/2022,Ceftriaxone,B3063,,Dissolution failure,Himachal Pradesh,High
+26-May-23,Ibuprofen,B3973,SUPP_133,Assay failure,Uttar Pradesh,High
+20-May-22,Ibuprofen,B5563,SUPP_134,Dissolution failure,Telangana,1
+2023-01-03,Telmisartan,B5843,SUPP_118,Dissolution failure,Himachal Pradesh,1
+10-Feb-23,diclofenac,B4813,SUPP_133,Dissolution failure,Himachal Pradesh,CRITICAL
+2023-10-05,ibuprofen,B2654,SUPP_118,Misbranded,Telangana,low
+27/04/2021,Ciprofloxacin,B9346,,Misbranded,Maharashtra,CRITICAL
+03/04/2021,Amoxicillin,B7798,SUPP_108,Misbranded,Himachal Pradesh,CRITICAL
+2022-02-24,Metformin,B7418,SUPP_133,Particulate matter,Himachal Pradesh,High
+,Ceftriaxone,B4110,SUPP_120,Dissolution failure,Uttar Pradesh,MED
+2023-04-08,Paracetamol,B9369,SUPP_107,"  Misbranded  
+",Himachal Pradesh,MED
+,Diclofenac,B4084,SUPP_102,Dissolution failure,Gujarat,CRITICAL
+,Paracetamol,B9856,SUPP_136,Discoloration,Himachal Pradesh,CRITICAL
+,PANTOPRAZOLE,B9476,SUPP_141,"  Particulate matter  
+",Maharashtra,CRITICAL
+18/07/2023,Diclofenac,B4891,SUPP_134,Discoloration,,2
+08-Aug-21,Pantoprazole,B8973,SUPP_144,Dissolution failure,Uttar Pradesh,High
+25/02/2023,ceftriaxone,B4246,,Assay failure,Telangana,1
+,Amoxicillin,B7232,SUPP_149,Assay failure,Himachal Pradesh,CRITICAL
+2023-12-16,Amoxicillin,B8740,SUPP_108,"  Assay failure  
+",Himachal Pradesh,MED
+2021-10-13,AMOXICILLIN,B2562,SUPP_141,Misbranded,Telangana,CRITICAL
+,Amoxicillin,B7697,SUPP_123,Misbranded,Himachal Pradesh,High
+05/10/2023,telmisartan,B9975,SUPP_147,Discoloration,Gujarat,low
+01-Jul-22,Pantoprazole,UNKNOWN,SUPP_132,Assay failure,Maharashtra,High
+01-Jan-24,Ibuprofen,B9540,SUPP_115,Discoloration,Maharashtra,1
+2022-04-30,Ceftriaxone,B5739,SUPP_149,"  Assay failure  
+",Uttar Pradesh,MED
+2021-08-12,Metformin,B8827,SUPP_111,Misbranded,Telangana,High
+07/11/2022,Diclofenac,B7870,,Particulate matter,Gujarat,CRITICAL
+08/12/2022,Diclofenac,B2489,SUPP_143,Particulate matter,Uttar Pradesh,High
+2023-01-08,Diclofenac,B8118,SUPP_115,"  Discoloration  
+",Uttar Pradesh,2
+14-Sep-22,Azithromycin,B4390,SUPP_139,"  Misbranded  
+",Maharashtra,low
+17/08/2023,Ciprofloxacin,B9011,SUPP_119,Particulate matter,Uttar Pradesh,MED
+02/11/2023,Paracetamol,B3785,SUPP_142,Dissolution failure,Maharashtra,High
+28-Mar-23,Azithromycin,UNKNOWN,SUPP_142,Particulate matter,Telangana,MED
+2022-09-07,Ibuprofen,B2129,,Assay failure,Himachal Pradesh,High
+,Amoxicillin,B7566,SUPP_123,Dissolution failure,Uttar Pradesh,low
+2022-05-09,Diclofenac,B5055,SUPP_127,"  Discoloration  
+",Himachal Pradesh,CRITICAL
+16-Apr-21,IBUPROFEN,B6122,SUPP_126,Assay failure,Uttar Pradesh,MED
+2023-10-03,Metformin,B6432,SUPP_105,Discoloration,Gujarat,CRITICAL
+2022-03-07,Ceftriaxone,B8900,SUPP_136,Assay failure,Gujarat,2
+23/05/2021,Ibuprofen,B9900,SUPP_123,Misbranded,Maharashtra,low
+,Ciprofloxacin,B2217,SUPP_103,Particulate matter,Gujarat,MED
+2021-12-13,Ibuprofen,B9064,SUPP_109,Misbranded,Telangana,CRITICAL
+2023-09-08,Paracetamol,B2124,,Misbranded,Telangana,CRITICAL
+10/05/2021,Paracetamol,B6993,SUPP_134,Assay failure,Gujarat,low
+2022-03-18,Pantoprazole,B4594,SUPP_150,Particulate matter,Uttar Pradesh,low
+,Amoxicillin,B4912,SUPP_129,Particulate matter,Maharashtra,High
+21-Aug-21,Azithromycin,B2584,SUPP_136,"  Misbranded  
+",,High
+04-Jan-22,Metformin,B4613,SUPP_126,Dissolution failure,Telangana,MED
+2022-07-29,Telmisartan,B9381,SUPP_108,Dissolution failure,Telangana,low
+,Amoxicillin,B2865,SUPP_117,Particulate matter,Uttar Pradesh,High
+2022-11-14,Pantoprazole,B1461,SUPP_124,Particulate matter,Himachal Pradesh,High
+02/07/2023,Telmisartan,B3858,SUPP_109,Misbranded,Gujarat,low
+23-Jul-22,paracetamol,B2275,SUPP_102,Dissolution failure,Gujarat,MED
+2023-12-10,Ciprofloxacin,B4977,,Dissolution failure,Himachal Pradesh,High
+23/10/2022,diclofenac,B1852,SUPP_150,Discoloration,Himachal Pradesh,MED
+2022-08-29,AMOXICILLIN,B9680,SUPP_147,Assay failure,Himachal Pradesh,CRITICAL
+,Ciprofloxacin,B8925,SUPP_130,"  Dissolution failure  
+",Telangana,2
+,Paracetamol,B2612,SUPP_103,Particulate matter,,low
+,azithromycin,B4257,,Assay failure,Himachal Pradesh,low
+,Telmisartan,B6925,SUPP_135,Assay failure,Telangana,low
+11/01/2022,Azithromycin,B2876,SUPP_138,Particulate matter,Telangana,low
+04-Nov-23,CIPROFLOXACIN,B4203,SUPP_115,Discoloration,Maharashtra,High
+,Telmisartan,B8855,SUPP_124,Discoloration,Uttar Pradesh,High
+15-Apr-22,Paracetamol,B3434,SUPP_137,Assay failure,Uttar Pradesh,1
+,Azithromycin,B3705,SUPP_108,"  Misbranded  
+",Gujarat,High
+01-Sep-21,Metformin,B5687,SUPP_116,"  Particulate matter  
+",Maharashtra,low
+,AZITHROMYCIN,B8460,SUPP_146,"  Particulate matter  
+",Telangana,High
+24/02/2022,Ceftriaxone,B3449,SUPP_105,"  Misbranded  
+",Telangana,low
+02-Oct-21,Amoxicillin,B1626,SUPP_111,Misbranded,Telangana,High
+28/01/2023,ibuprofen,B4853,SUPP_111,"  Discoloration  
+",Uttar Pradesh,MED
+06-Nov-21,Diclofenac,B6432,SUPP_141,Assay failure,Telangana,CRITICAL
+30-Oct-22,Paracetamol,B9561,SUPP_114,Discoloration,Telangana,1
+2021-04-09,CEFTRIAXONE,B2415,SUPP_118,Dissolution failure,Telangana,MED
+21/03/2023,ibuprofen,B9561,SUPP_138,Particulate matter,Maharashtra,MED
+18-Jul-23,Amoxicillin,B2600,SUPP_130,Dissolution failure,Maharashtra,MED
+2021-06-16,Ciprofloxacin,B5489,SUPP_108,Assay failure,,MED
+25/01/2023,Ciprofloxacin,B1612,SUPP_137,Discoloration,Gujarat,CRITICAL
+2023-08-15,ciprofloxacin,B3588,SUPP_129,"  Assay failure  
+",Telangana,High
+,Amoxicillin,B5670,SUPP_116,Assay failure,,CRITICAL
+30/01/2023,Paracetamol,B6411,SUPP_140,Particulate matter,Himachal Pradesh,High
+,Ibuprofen,B1653,SUPP_132,Particulate matter,Uttar Pradesh,low
+23-Sep-21,Metformin,B4522,,Assay failure,Gujarat,MED
+14-May-22,Amoxicillin,B6285,SUPP_125,Assay failure,Telangana,High
+,ibuprofen,B3571,SUPP_139,"  Misbranded  
+",Telangana,low
+09-Jan-21,Pantoprazole,B9419,SUPP_118,Assay failure,,High
+2022-03-29,Diclofenac,B3042,SUPP_106,Assay failure,Telangana,MED
+2021-04-25,Azithromycin,B3248,,Assay failure,Gujarat,MED
+18/12/2023,pantoprazole,B5127,SUPP_102,"  Discoloration  
+",Maharashtra,High
+2021-01-31,Paracetamol,B7293,SUPP_115,"  Discoloration  
+",Himachal Pradesh,CRITICAL
+04-Jul-21,CEFTRIAXONE,B4770,SUPP_111,"  Dissolution failure  
+",Himachal Pradesh,MED
+21-Feb-22,Telmisartan,B2477,SUPP_100,Particulate matter,Uttar Pradesh,low
+2022-05-14,Diclofenac,B1741,SUPP_146,Discoloration,Uttar Pradesh,High
+14/03/2021,Paracetamol,B6455,SUPP_113,Misbranded,Maharashtra,High
+25/11/2022,Telmisartan,B9626,SUPP_132,Misbranded,,High
+24/12/2021,Pantoprazole,B2786,SUPP_130,Particulate matter,Telangana,low
+2023-10-05,Ciprofloxacin,B2163,SUPP_124,"  Misbranded  
+",Himachal Pradesh,1
+,Ibuprofen,B2169,SUPP_113,Discoloration,Telangana,MED
+2022-06-16,Diclofenac,B8204,SUPP_123,Misbranded,Telangana,2
+,PARACETAMOL,B8912,SUPP_134,Dissolution failure,Maharashtra,1
+31/10/2023,Pantoprazole,B4119,SUPP_115,Dissolution failure,,CRITICAL
+27/02/2021,Ceftriaxone,B6886,SUPP_118,Particulate matter,Gujarat,CRITICAL
+2021-01-18,Telmisartan,B9083,SUPP_147,Dissolution failure,Telangana,low
+,Ibuprofen,B8869,SUPP_123,"  Particulate matter  
+",Gujarat,High
+2021-07-15,Telmisartan,B3255,SUPP_123,Misbranded,Himachal Pradesh,2
+07/09/2022,Metformin,B7609,,Particulate matter,Himachal Pradesh,low
+2022-04-17,ibuprofen,B8259,SUPP_139,Particulate matter,Telangana,1
+,Ciprofloxacin,B4114,SUPP_132,"  Discoloration  
+",Himachal Pradesh,MED
+2022-03-18,ceftriaxone,B6123,SUPP_102,Assay failure,Himachal Pradesh,CRITICAL
+2021-07-26,Pantoprazole,B9341,SUPP_123,Particulate matter,Telangana,High
+,Telmisartan,B5450,SUPP_134,Assay failure,Gujarat,High
+2022-03-31,Diclofenac,B8729,,Discoloration,Maharashtra,1
+18-Jul-23,Amoxicillin,B2785,,Discoloration,Maharashtra,High
+,Ciprofloxacin,B7686,SUPP_141,"  Particulate matter  
+",Gujarat,2
+23-Mar-23,DICLOFENAC,B3170,SUPP_128,Assay failure,,High
+25-Dec-23,ceftriaxone,B2685,SUPP_110,Discoloration,Gujarat,1
+29/06/2022,Ceftriaxone,B8218,SUPP_112,Particulate matter,Uttar Pradesh,low
+23/01/2023,Paracetamol,B4804,SUPP_103,Dissolution failure,Uttar Pradesh,High
+20/08/2022,Paracetamol,B7267,SUPP_111,"  Discoloration  
+",Maharashtra,MED
+06-Jun-23,Ibuprofen,B8932,SUPP_143,Discoloration,Maharashtra,MED
+25-Feb-23,Telmisartan,B3442,SUPP_135,"  Particulate matter  
+",Maharashtra,High
+18-Jan-21,Ibuprofen,B8875,,Assay failure,Maharashtra,1
+,Ibuprofen,B8438,,Assay failure,,low
+2021-01-27,ciprofloxacin,B4492,SUPP_136,Particulate matter,Himachal Pradesh,low
+24-May-23,Azithromycin,B8353,SUPP_149,Particulate matter,Gujarat,low
+01-Jan-23,Ibuprofen,B5223,SUPP_118,Dissolution failure,Gujarat,2
+,Ibuprofen,B5668,SUPP_115,Particulate matter,Gujarat,1
+31-Mar-21,Ceftriaxone,B1726,SUPP_137,Misbranded,Telangana,CRITICAL
+2021-10-17,telmisartan,B3621,SUPP_123,Assay failure,Telangana,High
+,Ceftriaxone,B9880,SUPP_149,Dissolution failure,Uttar Pradesh,CRITICAL
+2023-04-12,TELMISARTAN,B2262,SUPP_117,Assay failure,Uttar Pradesh,MED
+18/11/2022,Azithromycin,B7325,SUPP_130,Assay failure,Uttar Pradesh,2
+03-Oct-23,Metformin,B4575,SUPP_124,Assay failure,Uttar Pradesh,CRITICAL
+31/05/2022,Ceftriaxone,B7566,,Assay failure,Maharashtra,MED
+,Paracetamol,B2323,SUPP_145,Misbranded,Himachal Pradesh,2
+22/05/2023,Azithromycin,B8272,SUPP_131,Assay failure,Himachal Pradesh,1
+11/10/2023,Pantoprazole,B4190,SUPP_142,Discoloration,,CRITICAL
+2021-12-15,azithromycin,B3854,SUPP_150,Misbranded,Himachal Pradesh,2
+19/12/2022,ceftriaxone,B7035,,Discoloration,Maharashtra,CRITICAL
+03/10/2022,metformin,B4471,SUPP_111,Assay failure,Uttar Pradesh,CRITICAL
+,Azithromycin,B9824,SUPP_117,Assay failure,Uttar Pradesh,low
+2021-08-15,Ibuprofen,B8798,SUPP_105,Dissolution failure,,MED
+28-May-21,Metformin,UNKNOWN,SUPP_139,Assay failure,Uttar Pradesh,low
+,PANTOPRAZOLE,B7046,SUPP_125,Discoloration,Gujarat,low
+,Metformin,B5649,SUPP_150,Dissolution failure,Maharashtra,MED
+2023-11-22,amoxicillin,UNKNOWN,,Misbranded,,2
+19/02/2023,Diclofenac,B9921,SUPP_124,Misbranded,Uttar Pradesh,CRITICAL
+05-Sep-22,amoxicillin,B8532,SUPP_131,"  Assay failure  
+",Himachal Pradesh,MED
+09/01/2022,Azithromycin,B5520,SUPP_141,"  Misbranded  
+",Maharashtra,High
+2023-09-04,ceftriaxone,B3143,SUPP_117,"  Discoloration  
+",Uttar Pradesh,1
+,Telmisartan,B8586,SUPP_114,Particulate matter,Telangana,low
+2023-11-02,Amoxicillin,B4185,SUPP_104,Assay failure,Himachal Pradesh,MED
+2021-04-09,Telmisartan,B7438,SUPP_116,Discoloration,Telangana,MED
+21/06/2021,azithromycin,B2394,,Assay failure,Gujarat,low
+2022-08-12,Ceftriaxone,B1138,SUPP_130,Misbranded,Uttar Pradesh,MED
+2023-07-27,Azithromycin,B4389,SUPP_140,Assay failure,Himachal Pradesh,High
+,Azithromycin,B3762,SUPP_103,"  Particulate matter  
+",Uttar Pradesh,1
+2022-01-24,Azithromycin,B7473,SUPP_118,Discoloration,Uttar Pradesh,MED
+13/02/2022,Pantoprazole,B1153,SUPP_140,Dissolution failure,Telangana,low
+,Ibuprofen,B9625,SUPP_106,Assay failure,Uttar Pradesh,MED
+25-Mar-21,amoxicillin,B4262,SUPP_115,Dissolution failure,Himachal Pradesh,MED
+19/04/2022,Telmisartan,B9691,SUPP_140,Particulate matter,Himachal Pradesh,High
+2022-01-20,Pantoprazole,B8564,SUPP_105,Misbranded,Himachal Pradesh,1
+24-Aug-23,Azithromycin,B5403,SUPP_110,Particulate matter,Himachal Pradesh,High
+2023-01-30,Diclofenac,B2526,SUPP_150,Assay failure,Uttar Pradesh,High
+07-Jun-22,paracetamol,B1100,SUPP_148,Particulate matter,Uttar Pradesh,CRITICAL
+,Amoxicillin,UNKNOWN,SUPP_134,Discoloration,Himachal Pradesh,MED
+27/09/2022,Diclofenac,B3395,SUPP_136,Particulate matter,Maharashtra,CRITICAL
+19/02/2022,ceftriaxone,B4817,SUPP_113,Discoloration,Maharashtra,low
+01-Aug-22,azithromycin,B9042,,Discoloration,Telangana,2
+,Telmisartan,B4463,SUPP_138,Misbranded,Gujarat,CRITICAL
+,Azithromycin,B3909,,Misbranded,Maharashtra,low
+,Pantoprazole,B3851,SUPP_112,Discoloration,Telangana,CRITICAL
+2023-05-17,metformin,B1797,,Misbranded,Uttar Pradesh,High
+12/07/2022,Ciprofloxacin,B3399,SUPP_141,Misbranded,Uttar Pradesh,CRITICAL
+22-Feb-21,amoxicillin,B1833,SUPP_109,"  Dissolution failure  
+",Uttar Pradesh,1
+25/05/2021,Ciprofloxacin,B7070,SUPP_122,Particulate matter,Gujarat,low
+17-Oct-21,Ceftriaxone,B3712,SUPP_109,"  Discoloration  
+",Gujarat,1
+21-Oct-22,Pantoprazole,B9428,SUPP_145,Assay failure,Himachal Pradesh,MED
+01/01/2024,Paracetamol,B3290,SUPP_144,Dissolution failure,,High
+2022-11-29,azithromycin,B3181,SUPP_119,"  Misbranded  
+",Telangana,low
+27/07/2022,Diclofenac,B3329,SUPP_148,Particulate matter,Telangana,1
+2023-06-26,Metformin,B6175,,Misbranded,Telangana,low
+07-Nov-22,Ciprofloxacin,B6246,,Assay failure,Uttar Pradesh,1
+02/12/2021,Ceftriaxone,B3470,SUPP_119,Discoloration,Uttar Pradesh,MED
+,Amoxicillin,B3024,SUPP_150,Particulate matter,Gujarat,low
+2023-11-20,ciprofloxacin,B3793,SUPP_102,"  Assay failure  
+",Uttar Pradesh,low
+,Pantoprazole,B7560,,Particulate matter,Gujarat,1
+31-Aug-23,diclofenac,B4913,SUPP_105,Misbranded,Telangana,CRITICAL
+2023-07-16,Ibuprofen,B6352,SUPP_146,"  Misbranded  
+",Himachal Pradesh,1
+07/05/2022,Metformin,B7001,SUPP_108,"  Dissolution failure  
+",Telangana,low
+03-Nov-22,Amoxicillin,B1480,SUPP_111,"  Assay failure  
+",Himachal Pradesh,MED
+03/09/2021,amoxicillin,B6095,SUPP_119,"  Particulate matter  
+",Telangana,low
+2022-05-14,Telmisartan,UNKNOWN,SUPP_123,Assay failure,Maharashtra,High
+,ceftriaxone,B4608,SUPP_121,"  Misbranded  
+",,1
+08/06/2023,Diclofenac,B5982,SUPP_103,Particulate matter,Maharashtra,CRITICAL
+28/07/2021,Ceftriaxone,B3320,SUPP_120,"  Discoloration  
+",Gujarat,CRITICAL
+03-Mar-21,Azithromycin,B6374,SUPP_106,Particulate matter,Uttar Pradesh,MED
+,amoxicillin,B7877,,Assay failure,Uttar Pradesh,low
+30/04/2023,Azithromycin,B6180,SUPP_108,Misbranded,Himachal Pradesh,MED
+19/02/2022,Telmisartan,B8933,SUPP_144,"  Assay failure  
+",Gujarat,low
+,Metformin,B7248,SUPP_124,Particulate matter,Gujarat,CRITICAL
+2021-08-19,pantoprazole,B2479,SUPP_104,Dissolution failure,Uttar Pradesh,CRITICAL
+03-Jan-21,Paracetamol,B7609,SUPP_131,Misbranded,,High
+04/03/2022,Amoxicillin,B4629,SUPP_127,"  Discoloration  
+",Telangana,CRITICAL
+,Pantoprazole,B2659,SUPP_138,Misbranded,Uttar Pradesh,MED
+2023-03-15,Pantoprazole,B3830,SUPP_136,Particulate matter,Gujarat,low
+30-Jan-22,Ibuprofen,UNKNOWN,SUPP_131,Discoloration,Himachal Pradesh,CRITICAL
+11-Jun-22,Ciprofloxacin,B6664,SUPP_127,Discoloration,Himachal Pradesh,CRITICAL
+29-Aug-22,METFORMIN,B8657,SUPP_143,Particulate matter,Maharashtra,MED
+2023-07-07,Amoxicillin,B5329,SUPP_124,"  Discoloration  
+",Gujarat,CRITICAL
+,AZITHROMYCIN,B4145,SUPP_113,Misbranded,Gujarat,MED
+,TELMISARTAN,B9700,SUPP_123,Particulate matter,Gujarat,low
+,Ibuprofen,B2625,SUPP_136,Assay failure,Uttar Pradesh,low
+2022-03-02,Amoxicillin,B9624,SUPP_108,Misbranded,,low
+2023-08-06,Ibuprofen,B8355,SUPP_128,Misbranded,Himachal Pradesh,low
+2022-11-05,Metformin,B6860,SUPP_137,"  Discoloration  
+",Telangana,1
+,Azithromycin,B3293,SUPP_110,Particulate matter,Himachal Pradesh,MED
+18-Dec-21,Paracetamol,B6343,SUPP_105,Particulate matter,Telangana,low
+2021-05-17,Ceftriaxone,B5408,SUPP_114,Dissolution failure,Maharashtra,2
+,Metformin,B5543,SUPP_116,Dissolution failure,Telangana,low
+2021-12-15,METFORMIN,B6420,,Dissolution failure,Himachal Pradesh,MED
+,Ceftriaxone,B7461,SUPP_105,Dissolution failure,,low
+24-Jun-23,Ciprofloxacin,B7121,SUPP_130,"  Particulate matter  
+",Gujarat,MED
+,Ceftriaxone,B2294,SUPP_118,"  Particulate matter  
+",Telangana,High
+,Diclofenac,B7924,SUPP_100,Misbranded,Telangana,low
+2023-05-06,Pantoprazole,B4452,SUPP_107,Discoloration,Himachal Pradesh,low
+2021-11-23,Ibuprofen,UNKNOWN,SUPP_111,Discoloration,Gujarat,CRITICAL
+13/10/2021,Telmisartan,B5333,SUPP_124,"  Misbranded  
+",Gujarat,CRITICAL
+20-Jan-22,Ciprofloxacin,B8613,SUPP_117,Misbranded,Gujarat,1
+2022-10-01,Telmisartan,B8432,,Discoloration,Himachal Pradesh,CRITICAL
+21/10/2022,Amoxicillin,B8121,SUPP_117,Particulate matter,Uttar Pradesh,High
+2021-12-04,Telmisartan,B5832,SUPP_125,Misbranded,Uttar Pradesh,CRITICAL
+18-Jul-22,Telmisartan,B5783,SUPP_114,"  Dissolution failure  
+",Himachal Pradesh,CRITICAL
+2023-11-02,pantoprazole,B7797,SUPP_144,"  Dissolution failure  
+",Uttar Pradesh,MED
+2022-12-21,Paracetamol,B3852,SUPP_110,Dissolution failure,Himachal Pradesh,High
+10-Oct-22,Paracetamol,B4700,SUPP_125,Dissolution failure,Maharashtra,CRITICAL
+18-Sep-22,METFORMIN,B7704,SUPP_108,Discoloration,Gujarat,2
+21/11/2022,Telmisartan,B3532,SUPP_135,Dissolution failure,Telangana,MED
+25/09/2021,Ibuprofen,B8710,,Dissolution failure,Uttar Pradesh,low
+23-Aug-21,Ceftriaxone,B1076,SUPP_112,Misbranded,Gujarat,High
+09/08/2022,Pantoprazole,B7415,SUPP_111,Misbranded,Gujarat,CRITICAL
+09-Apr-21,Paracetamol,B4836,SUPP_110,"  Dissolution failure  
+",Maharashtra,low
+,Amoxicillin,B2341,SUPP_148,Discoloration,Maharashtra,low
+24/01/2022,Amoxicillin,B3838,SUPP_134,Dissolution failure,Himachal Pradesh,1
+,Diclofenac,B3827,SUPP_121,Misbranded,,2
+,Pantoprazole,B5285,SUPP_119,Assay failure,Gujarat,High
+2022-12-19,Amoxicillin,B1241,SUPP_103,Dissolution failure,Uttar Pradesh,CRITICAL
+,Ibuprofen,B4111,SUPP_124,Misbranded,Himachal Pradesh,MED
+30-Apr-23,Diclofenac,B8517,SUPP_149,Particulate matter,Gujarat,CRITICAL
+16/12/2023,Azithromycin,B9992,,Misbranded,Gujarat,low
+16-Jan-21,Amoxicillin,B3201,SUPP_143,"  Misbranded  
+",Maharashtra,CRITICAL
+2023-04-10,Azithromycin,B6772,SUPP_118,Discoloration,Uttar Pradesh,CRITICAL
+01/03/2021,Azithromycin,B5176,SUPP_146,"  Dissolution failure  
+",Telangana,2
+2022-07-25,Ciprofloxacin,B9047,SUPP_139,Assay failure,Telangana,MED
+03/04/2023,METFORMIN,B8213,SUPP_137,Dissolution failure,,1
+2023-05-11,Telmisartan,B8726,SUPP_126,Particulate matter,Uttar Pradesh,low
+15-Dec-22,Pantoprazole,B2463,SUPP_108,Assay failure,Maharashtra,2
+,Paracetamol,B8921,SUPP_139,Dissolution failure,Maharashtra,CRITICAL
+2021-09-14,Telmisartan,B3198,SUPP_141,Discoloration,Uttar Pradesh,low
+19-Sep-21,Ciprofloxacin,B7999,SUPP_147,Dissolution failure,Gujarat,low
+03/10/2022,Metformin,B3954,SUPP_129,"  Particulate matter  
+",Gujarat,CRITICAL
+15-Apr-22,Telmisartan,B4777,SUPP_144,Particulate matter,Maharashtra,low
+2021-05-21,Ceftriaxone,B8953,SUPP_104,Dissolution failure,Maharashtra,low
+,AMOXICILLIN,B7790,SUPP_137,Particulate matter,Himachal Pradesh,low
+01/10/2022,Paracetamol,B3913,SUPP_122,Assay failure,Uttar Pradesh,MED
+,Azithromycin,B2852,SUPP_126,Particulate matter,Telangana,MED
+25-Mar-21,pantoprazole,B6942,SUPP_128,Misbranded,,low
+03/01/2021,Telmisartan,B9317,SUPP_116,Assay failure,Telangana,low
+02-May-23,Paracetamol,B5140,SUPP_109,"  Misbranded  
+",Uttar Pradesh,1
+2021-08-15,Metformin,B1841,SUPP_149,Discoloration,Uttar Pradesh,2
+15/03/2023,Ciprofloxacin,B8668,SUPP_104,Discoloration,Uttar Pradesh,1
+,Ceftriaxone,B9270,SUPP_148,Particulate matter,Himachal Pradesh,CRITICAL
+26/11/2023,amoxicillin,B4490,SUPP_139,Discoloration,Himachal Pradesh,low
+,Azithromycin,B2713,,Assay failure,Gujarat,2
+,DICLOFENAC,B2044,SUPP_104,"  Assay failure  
+",Himachal Pradesh,MED
+18/08/2022,Ciprofloxacin,B5728,,"  Misbranded  
+",Uttar Pradesh,High
+,Ceftriaxone,B8997,SUPP_146,Assay failure,Himachal Pradesh,High
+23/01/2023,Telmisartan,B3292,SUPP_138,Dissolution failure,Uttar Pradesh,MED
+2021-03-16,Paracetamol,B2827,SUPP_148,Discoloration,Gujarat,CRITICAL
+03/05/2021,Ciprofloxacin,B2591,SUPP_142,Misbranded,Uttar Pradesh,High
+12/02/2023,Telmisartan,B8341,SUPP_105,Dissolution failure,,CRITICAL
+05/09/2022,Paracetamol,B7149,,Misbranded,Himachal Pradesh,2
+2023-03-04,Ciprofloxacin,B9571,SUPP_138,"  Misbranded  
+",Telangana,MED
+2022-01-26,Telmisartan,B8793,SUPP_110,Dissolution failure,Telangana,High
+09-Nov-23,amoxicillin,B4312,SUPP_103,Misbranded,Maharashtra,High
+2023-02-14,diclofenac,B3078,SUPP_126,Particulate matter,Uttar Pradesh,MED
+,paracetamol,B4288,SUPP_136,"  Assay failure  
+",Maharashtra,low
+07/12/2021,pantoprazole,B9524,,Assay failure,Telangana,CRITICAL
+,Metformin,B9830,SUPP_116,"  Dissolution failure  
+",Telangana,High
+,CIPROFLOXACIN,B1701,SUPP_114,"  Misbranded  
+",Himachal Pradesh,low
